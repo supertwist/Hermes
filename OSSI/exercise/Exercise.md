@@ -32,8 +32,31 @@ Some things to do:
 
 ---
 
-### Other recipes to add to the prompt.
-I keep handy lots of snippets that can be added to prompts to improve results. I find them all over the place - message boards, Instagram, Substack... sometime I even think of my own. 
+### General recipes I keep handy.
+I keep lots of snippets that can be added to prompts to improve results. I find them all over the place - message boards, Instagram, Substack... sometime I even think of my own. Mix, match, use when needed: 
 
-Personas prime the response with context and perspective:  
-``You are a researcher in (insert your domain).``
+**Personas** prime the response with context and perspective:  
+```
+You are a subject matter expert in (your domain).
+```
+
+**Citing the model you use** is a good practice for transparency into what is human- vs. LLM-generated. I require all of my students (art students!) to do something like:  
+```
+Prepend the model used, the prompt, and the date it was generated to the beginning of the document in the following YAML structure:
+—
+Model: (model name)
+Prompt: (insert prompt)
+Date: (insert yy/mm/dd)
+—
+```
+
+**Tables** are obviously a good, human-readable structure as mentioned above. The pattern I use is:
+```
+Save the results to a markdown table with these specific columns (list the column names separated by commas)
+```
+.JSON is another structured format the LLMs can create reasonable well. Specifying a data structure for the LLM responses makes it easier to get predictable and verifiable output. 
+
+**Links** provide pointers to real sources that you can verify:
+```
+Create a list of sources and their links. Double check that the links are valid; if the links are 404, do not include them.
+```
