@@ -1,5 +1,5 @@
 # A simple Copilot research exercise:
-GW offers a few generative AI tools to students. Let’s look at [**Copilot**]([Copilot](https://it.gwu.edu/microsoft-copilot) and talk about why we would use this tool. It’s safe - university vetted. Can get it to do something useful? We’ll treat it like an unpaid research intern, have it collect lots of data, check it’s sources, and structure it’s output in a usable, presentable way. Can we get it to do a research task in minutes that would take you hours, and provide trustworthy results?
+GW offers a few generative AI tools to students. Let’s look at [**Copilot**](https://it.gwu.edu/microsoft-copilot) and talk about why we would use this tool. It’s safe - university vetted. Can get it to do something useful? We’ll treat it like an unpaid research intern, have it collect lots of data, check it’s sources, and structure it’s output in a usable, presentable way. Can we get it to do a research task in minutes that would take you hours, and provide trustworthy results?
 
 When I start projects I often do research to get the lay of the land, get ideas for my build, assess tools I might need. It takes time, and I'm not very methodical! Google is great, but often sites that compare things don't do so by the criteria I'm interested in, and picking through twenty or thirty sites kills a lot of daylight.
 
@@ -36,4 +36,4 @@ Some things to do:
 I keep handy lots of snippets that can be added to prompts to improve results. I find them all over the place - message boards, Instagram, Substack... sometime I even think of my own. 
 
 Personas prime the response with context and perspective:  
-``` You are a researcher in (insert your domain).```
+``You are a researcher in (insert your domain).``
