@@ -1,6 +1,6 @@
 ---
 Model: gpt-oss:120b
-Prompt: I am an artist looking for tools that generate 3D meshes from single images. Compare tools on Hugging Face that generate 3D meshes from single images. For each of the results create a table with the following columns: - name of project - link - how active is the model? - when was it last updated - can it run on a consumer laptop?
+Prompt: I am an artist looking for tools that generate 3D meshes from single images. Compare tools on Hugging Face that generate 3D meshes from single images. For each of the results create a table with the following columns - name of project - link - how active is the model? - when was it last updated - can it run on a consumer laptop?
 Date: 26/06/19
 ---
 
