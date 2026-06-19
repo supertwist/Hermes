@@ -51,7 +51,7 @@ If no referrer links can be found, do not include the source.
 
 Your goal is to find the most performant system that will run on a consumer laptop.
 
-Save the result as "RAG-research.md" to /Users/james/GIT/Hermes/OSSI/corpus
+Save the result as "HF-research.md" to /Users/james/GIT/Hermes/OSSI/demo
 
 Prepend the model used, the prompt, and the date it was generated to the beginning of the document in the following YAML structure:
 —
