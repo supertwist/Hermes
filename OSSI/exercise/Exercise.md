@@ -36,4 +36,4 @@ Some things to do:
 I keep handy lots of snippets that can be added to prompts to improve results. I find them all over the place - message boards, Instagram, Substack... sometime I even think of my own. 
 
 Personas prime the response with context and perspective:  
-```You are a researcher in (insert your domain).```
+``` You are a researcher in (insert your domain).```
