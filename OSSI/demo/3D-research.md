@@ -1,6 +1,6 @@
 ---
 Model: gpt-oss:120b
-Prompt: Do you have the capability to build a RAG? what model are you currently connected to (should be local gpt-oss:120b) ... Create a table of authoritative sources for AI models that can generate a 3D mesh from a single image, include referrers and analysis. Save as RAG-research.md.
+Prompt: What model are you currently connected to (should be local gpt-oss:120b) ... Create a table of authoritative sources for AI models that can generate a 3D mesh from a single image, include referrers and analysis. Save as 3D-research.md.
 Date: 26/06/2026
 ---
 
