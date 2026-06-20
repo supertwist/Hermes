@@ -37,7 +37,7 @@ I am an artist looking for for tools that generate 3D meshes from single images.
 
 Compare tools on [Hugging Face](https://huggingface.co/) that generate 3D meshes from single images.
 
-For each of the results create a table with the folllowing columns:
+For each of the results create a table with the following columns:
 - name of project
 - link
 - how active is the model?
@@ -54,6 +54,28 @@ Your goal is to find the most performant system that will run on a consumer lapt
 Save the result as "HF-research.md" to /Users/james/GIT/Hermes/OSSI/demo
 
 Prepend the model used, the prompt, and the date it was generated to the beginning of the document in the following YAML structure:
+—
+Model: (model name)
+Prompt: (insert prompt)
+Date: (insert yy/mm/dd)
+—
+```
+
+**Another experiment:**
+```
+Are there MCPs for Rhino 8? If the are more than one, create a comparison table with the following columns:
+- name of tool
+- link to download
+- a short summary of the scope of fuctionality
+
+Do not leave any cells blank. If you are unsure, at any point, ask me for guidance.
+For the source links: check that they are live; if 404 then do not include.
+For the referrer links: check that they are live; if 404 then do not include.
+If no referrer links can be found, do not include the source.
+
+Save the result as "Rhino-research.md" to /Users/james/GIT/Hermes/OSSI/demo
+
+Prepend the model used, the prompt (remove any special characters that violate YAML conventions), and the date it was generated to the beginning of the document in the following YAML structure:
 —
 Model: (model name)
 Prompt: (insert prompt)
