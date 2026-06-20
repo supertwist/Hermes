@@ -63,6 +63,8 @@ Date: (insert yy/mm/dd)
 
 **Another experiment:**
 ```
+I am a designer who uses Rhino 8.
+
 Are there MCPs for Rhino 8? If the are more than one, create a comparison table with the following columns:
 - name of tool
 - link to download
