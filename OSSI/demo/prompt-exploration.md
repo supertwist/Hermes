@@ -84,3 +84,20 @@ Prompt: (insert prompt)
 Date: (insert yy/mm/dd)
 —
 ```
+
+**And then...**
+```
+I've added the Rhino MCP plugin to my Rhino 8 install. How can I connect to it from Hermes? the instructions here https://mcneel.github.io/RhinoMCP/docs/getting-started/lm-studio/ only describe access via LM Studio. The MCPStart part is currently 10500
+```
+
+**Some prompt scaffolding:**
+
+```
+You are a scientific researcher. Provide a concise list of elements that can be added to a prompt that can ensure truthfulness and mitigate bias in output. Validation, reproducibility, and transparency of the chain of reasoning are critical. Prepend the model used, the prompt,  and the date it was generated to the beginning of the document in the following YAML structure:
+—
+Model: (model name)
+Prompt: (insert prompt)
+Date: (insert yy/mm/dd)
+—
+Sve the result to "scaffolding-claude.md"
+```
