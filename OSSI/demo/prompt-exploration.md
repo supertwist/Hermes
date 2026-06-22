@@ -1,7 +1,7 @@
 # Prompt exploration
 This is my sketchpad for testing out research prompts.
 
-## Here is some early brainstorming; these can be skipped; just include them so you can see my - possibly entertaining - thought process:
+## Here is some early brainstorming; these can be skipped; I include them so you can see my - possibly entertaining - thought process:
 
 **First Iteration**
 ```
