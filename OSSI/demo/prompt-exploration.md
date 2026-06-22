@@ -99,5 +99,17 @@ Model: (model name)
 Prompt: (insert prompt)
 Date: (insert yy/mm/dd)
 —
-Sve the result to "scaffolding-claude.md"
+Save the result to "scaffolding-claude.md"
+```
+
+More Hermes-specific to make up for it's deficincies - possibly the smaller context window.
+
+```
+You are a scientific researcher. Provide a concise list of elements that can be added to a prompt that can ensure truthfulness and mitigate bias in output. Include written-out examples that can be copied into actaul prompts. Validation, reproducibility, and transparency of the chain of reasoning are critical. Prepend the model used, the prompt,  and the date it was generated to the beginning of the document in the following YAML structure:
+—
+Model: (model name)
+Prompt: (insert prompt)
+Date: (insert yy/mm/dd)
+—
+Save the result to "scaffolding-hermes-v2.md"
 ```
