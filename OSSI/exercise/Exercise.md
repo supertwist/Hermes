@@ -58,5 +58,5 @@ Save the results to a markdown table with these specific columns (list the colum
 
 **Links** provide pointers to real sources that you can verify:
 ```
-Create a list of sources and their links. Double check that the links are valid; if the links are 404, do not include them.
+Create a list of sources and their links. Double check that the links are valid; if the links are 404, do not include them. Double check that the content of the link matches the intent of the request.
 ```
